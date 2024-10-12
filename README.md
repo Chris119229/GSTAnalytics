@@ -7,8 +7,8 @@ This project implements a hybrid machine learning model using Support Vector Mac
 Given a dataset \(D\), the objective is to construct a predictive model \(F_\theta(X) \rightarrow Y_{\text{pred}}\) that accurately estimates the target variable \(Y_i\) for new, unseen inputs \(X_i\).
 
 ### Dataset Description
-- **Dtrain**: A matrix of dimension \(R(m \times n)\) representing the training data.
-- **Dtest**: A matrix of dimension \(R(m1 \times n)\) representing the test data.
+- **Xtrain**: A matrix of dimension \(R(m \times n)\) representing the training data.
+- **Xtest**: A matrix of dimension \(R(m1 \times n)\) representing the test data.
 - **Ytrain**: Corresponding target variable with matrix dimension \(R(m \times 1)\).
 - **Ytest**: Corresponding target variable with matrix dimension \(R(m1 \times 1)\).
 
