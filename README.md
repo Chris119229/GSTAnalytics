@@ -24,7 +24,7 @@ Given a dataset \(D\), the objective is to construct a predictive model \(F_\the
   - **pandas**: For data manipulation and analysis.
   - **joblib**: For model serialization (saving and loading).
   - **numpy**: For numerical operations and array handling.
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- **stacks**:![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![joblib](https://img.shields.io/badge/joblib-00B300?style=flat&logoColor=white)
