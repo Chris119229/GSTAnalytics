@@ -36,15 +36,28 @@ Given a dataset \(D\), the objective is to construct a predictive model \(F_\the
   - **Visual Studio Code**: For coding and debugging.
 - **Version Control**: Git
 
-## Installation
+## Steps to Execute
 To run this project, ensure you have Python installed on your machine. Follow the steps below to set up the environment:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
+   git clone https://github.com/yourusername/GSTAnalytics.git
    cd repository-name
 
-2. Install the required packages:
+2. Create a virtual environment
+    ```bash
+    python -m venv venv
+
+3. Activate the virtual environment:
+   - On Windows:
+     ```bash
+     venv\Scripts\activate
+
+   - On macOS/Linus:
+     ```bash
+     source venv/bin/activate
+
+4. Install the required packages:
    ```bash
    pip install -r requirements.txt
 
@@ -52,17 +65,10 @@ To run this project, ensure you have Python installed on your machine. Follow th
 1. Prepare your input data in a CSV file named input_data.csv
 
 2. Run the prediction script:
+   ```bash
    python predict.py
    
 3. View the predictions in the console output.
 
-## Project Structure 
-/project-root
-├── predict.py          # Script for making predictions
-├── input_data.csv      # Sample input data for predictions
-├── requirements.txt     # Required Python packages
-├── .gitignore          # Files and directories to ignore in git
-└── README.md           # Project documentation
 
-## License 
-This project is licensed under the MIT License. See the LICENSE file for details.
+
