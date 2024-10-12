@@ -71,4 +71,12 @@ To run this project, ensure you have Python installed on your machine. Follow th
 3. View the predictions in the console output.
 
 
-
+## Project Structure
+- **/project-root**
+  - ├── model.py            # Script for training the model
+  - ├── predict.py          # Script for making predictions
+  - ├── input_data.csv      # Sample input data for predictions
+  - ├── requirements.txt     # Required Python packages
+  - ├── .gitignore          # Files and directories to ignore in git
+  - └── README.md           # Project documentation
+   
