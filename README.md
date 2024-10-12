@@ -79,4 +79,8 @@ To run this project, ensure you have Python installed on your machine. Follow th
   - ├── requirements.txt     # Required Python packages
   - ├── .gitignore          # Files and directories to ignore in git
   - └── README.md           # Project documentation
-   
+
+## Checksum Value 
+  ```bash
+- F:\>python checksum.py "GSTAnalytics.zip" --algorithm sha256
+SHA256 Checksum: a436d8f6e7cb0947e0918aff7b0906b0f4a6cfe4e9f83252af4cefaf9631814c
