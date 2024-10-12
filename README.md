@@ -45,6 +45,7 @@ To run this project, ensure you have Python installed on your machine. Follow th
    cd repository-name
 
 2. Install the required packages:
+   ```bash
    pip install -r requirements.txt
 
 ## Usage 
