@@ -24,16 +24,16 @@ Given a dataset \(D\), the objective is to construct a predictive model \(F_\the
   - **pandas**: For data manipulation and analysis.
   - **joblib**: For model serialization (saving and loading).
   - **numpy**: For numerical operations and array handling.
-- **Development Environment**:
-  - **Visual Studio Code**: For coding and debugging.
-- **Version Control**: Git
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![joblib](https://img.shields.io/badge/joblib-00B300?style=flat&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- **Development Environment**:
+  - **Visual Studio Code**: For coding and debugging.
+- **Version Control**: Git
 
 ## Installation
 To run this project, ensure you have Python installed on your machine. Follow the steps below to set up the environment:
