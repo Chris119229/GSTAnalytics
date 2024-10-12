@@ -19,6 +19,13 @@ Given a dataset \(D\), the objective is to construct a predictive model \(F_\the
 
 ## Tech Stack
 - **Programming Language**: Python
+- <span style="background-color: #f0db4f; color: #323330; padding: 5px; border-radius: 3px;">Python</span>
+<span style="background-color: #00d8ff; color: #323330; padding: 5px; border-radius: 3px;">scikit-learn</span>
+<span style="background-color: #150458; color: #ffffff; padding: 5px; border-radius: 3px;">pandas</span>
+<span style="background-color: #00b300; color: #ffffff; padding: 5px; border-radius: 3px;">joblib</span>
+<span style="background-color: #fcbf1e; color: #323330; padding: 5px; border-radius: 3px;">numpy</span>
+<span style="background-color: #007acc; color: #ffffff; padding: 5px; border-radius: 3px;">Visual Studio Code</span>
+<span style="background-color: #f14e32; color: #ffffff; padding: 5px; border-radius: 3px;">Git</span>
 - **Libraries**:
   - **scikit-learn**: For machine learning algorithms and data preprocessing.
   - **pandas**: For data manipulation and analysis.
