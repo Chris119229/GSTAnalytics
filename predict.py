@@ -58,7 +58,9 @@ def predict(input_data):
 
 # Example usage:
 if __name__ == "__main__":
-    # Replace with actual input data (adjust columns accordingly)
-    sample_input = {'feature1': [1], 'feature2': [0], 'feature3': [1], 'feature4': [0]}
-    result = predict(sample_input)
+    # Load input data from CSV
+    input_data = pd.read_csv('input_data.csv')
+    
+    # Run prediction
+    result = predict(input_data)
     print(f"Prediction: {result}")
